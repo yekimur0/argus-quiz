@@ -283,6 +283,7 @@ img {
   height: 48px;
   max-width: 500px;
   outline: none;
+  color: #fff;
 }
 
 .quiz-form-rules {
